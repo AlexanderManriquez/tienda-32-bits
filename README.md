@@ -1,5 +1,11 @@
-# Vue 3 + Vite
+## Desafío evaluado Vuex
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+En este desafío validamos nuestros conocimientos para implementar un aplicativo web utilizando Vuex para el almacenamiento del estado de los componentes y dar solución a un
+problema.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+La tienda de juegos de video 32bits nos ha encargado desarrollar un prototipo para su nuevo sistema de gestión de productos. Para esto, se nos ha solicitado el desarrollo de una aplicación SPA utilizando VueJS mediante la creación del proyecto con Vite, además la incorporación Vuex para controlar todos los datos de forma centralizada.
+
+Para visualizar el proyecto, visita el siguiente enlace:
+
+⛓️ <a href="https://tienda-32-bits.vercel.app/">Tienda 32 Bits</a>
+
